@@ -8,7 +8,7 @@
     "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
-    "express": "4.16.0",
+    "express": "4.17.1",
     "jade": "*",
     "payzippy": "*",
     "snyk": "^1.298.1"
